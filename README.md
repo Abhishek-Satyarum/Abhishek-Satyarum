@@ -56,7 +56,7 @@ Motto       :: Grow with the Flow.
 </td> </tr>
 <tr><td colspan="2" align="center">
   
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Abhishek-Satyarum&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
 </td></tr></table>
 
 <!--## Featured Projects-->
