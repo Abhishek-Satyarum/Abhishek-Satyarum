@@ -54,10 +54,7 @@ Motto       :: Grow with the Flow.
   
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Abhishek-Satyarum&layout=donut&langs_count=4&theme=tokyonight&hide_border=true)](https://github-stats-extended.vercel.app/api/top-langs?username=Abhishek-Satyarum&layout=donut&langs_count=4&theme=tokyonight&hide_border=true)
 </td> </tr>
-<tr><td colspan="2" align="center">
-  
-
-</td></tr></table>
+</table>
 
 <!--## Featured Projects-->
 
